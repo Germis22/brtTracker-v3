@@ -1,0 +1,119 @@
+{
+  "project_info": {
+    "project_number": "473595464273",
+    "firebase_url": "https://brttracker-bdb50.firebaseio.com",
+    "project_id": "brttracker-bdb50",
+    "storage_bucket": "brttracker-bdb50.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:473595464273:android:b7fbf9043db34d96710670",
+        "android_client_info": {
+          "package_name": "com.brt_tracker_cli"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "473595464273-9l8hv8huc63or19vuaufrm4gsptsdgbs.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDNyhOaKsdOHHH3UKKN4qFNce29g0bNvTU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "473595464273-9l8hv8huc63or19vuaufrm4gsptsdgbs.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "473595464273-m0btf2prvp2pf7ighjb00n5pe6g7dq2b.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.german.brtTracker"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:473595464273:android:4a376dced09bb860710670",
+        "android_client_info": {
+          "package_name": "com.brttrackerandroid"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "473595464273-9l8hv8huc63or19vuaufrm4gsptsdgbs.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDNyhOaKsdOHHH3UKKN4qFNce29g0bNvTU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "473595464273-9l8hv8huc63or19vuaufrm4gsptsdgbs.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "473595464273-m0btf2prvp2pf7ighjb00n5pe6g7dq2b.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.german.brtTracker"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:473595464273:android:1539d70dffda5f91710670",
+        "android_client_info": {
+          "package_name": "com.german.brtTracker"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "473595464273-9l8hv8huc63or19vuaufrm4gsptsdgbs.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDNyhOaKsdOHHH3UKKN4qFNce29g0bNvTU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "473595464273-9l8hv8huc63or19vuaufrm4gsptsdgbs.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "473595464273-m0btf2prvp2pf7ighjb00n5pe6g7dq2b.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.german.brtTracker"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
